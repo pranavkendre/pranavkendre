@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pranavkendre
-- 👀 I’m interested in learning new things like AI,blockchain development ,etc
-- 🌱 I’m currently learning  web development(front-end),crypto currency 💴  
+- 👀 I’m interested in learning new things like AI,blockchain development , python etc
+- 🌱 I’m currently learning  web development(front-end),crypto currency 💴  and python 
 - 💞️ I’m looking to collaborate on .</>
 - 📫 How to reach me  < peekin111@gmail.com > 
 
